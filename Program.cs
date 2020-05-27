@@ -6,7 +6,7 @@ namespace Aula3___Sprint4___POOLicçao
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Celular motorola = new Celular();
         }
     }
 }

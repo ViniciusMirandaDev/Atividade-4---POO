@@ -4,25 +4,45 @@ namespace Aula3___Sprint4___POOLicçao
 {
     public class Celular
     {
+        // Atributos
         public string cor;
         public string modelo;
         public float tamanho;
         public bool ligado;
-        public string  LigarCelular(){
-            ligado= true;
-            return "Celular Ligado";
+
+        //Métodos
+        /// <summary>
+        /// Ligar o celular
+        /// </summary>
+        /// <returns>Texto de celular ligado</returns>
+        public string Ligar(){
+            ligado=true;
+            return "Celular ligado";
         }
-        public string DesligarCelular(){
+        /// <summary>
+        /// Desligar o celular
+        /// </summary>
+        /// <returns>Texto de celular desligado</returns>
+        public string Desligar(){
             ligado=false;
-            return "Celular desligado";
+            return "Celular desligando";
         }
-        public void EnviarMensagem(){
-            if(ligado == true){
-                Console.WriteLine("Digite sua mensagem:");
-                Console.ReadLine();
-            }else{
-                Console.WriteLine("Ligue o celular!");
-            }
+
+        /// <summary>
+        /// reaiza ligação pelo celular
+        /// </summary>
+        /// <returns>Texto de ligação efetuada</returns>
+        public string FazerLigacao(){
+            return "Realizando ligação";
         }
+
+        /// <summary>
+        /// Envia mensagem
+        /// </summary>
+        /// <returns>Texto de mensagem enviada</returns>
+        public string EnviarMensagem(){
+            return "Enviando mensagem";
+        }
+
     }
 }
