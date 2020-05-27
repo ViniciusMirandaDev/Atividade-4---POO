@@ -1,0 +1,13 @@
+C:\Users\amand\Documents\POO senai\Aula3---Sprint4---POOLicçao\bin\Debug\netcoreapp3.1\Aula3---Sprint4---POOLicçao.exe
+C:\Users\amand\Documents\POO senai\Aula3---Sprint4---POOLicçao\bin\Debug\netcoreapp3.1\Aula3---Sprint4---POOLicçao.deps.json
+C:\Users\amand\Documents\POO senai\Aula3---Sprint4---POOLicçao\bin\Debug\netcoreapp3.1\Aula3---Sprint4---POOLicçao.runtimeconfig.json
+C:\Users\amand\Documents\POO senai\Aula3---Sprint4---POOLicçao\bin\Debug\netcoreapp3.1\Aula3---Sprint4---POOLicçao.runtimeconfig.dev.json
+C:\Users\amand\Documents\POO senai\Aula3---Sprint4---POOLicçao\bin\Debug\netcoreapp3.1\Aula3---Sprint4---POOLicçao.dll
+C:\Users\amand\Documents\POO senai\Aula3---Sprint4---POOLicçao\bin\Debug\netcoreapp3.1\Aula3---Sprint4---POOLicçao.pdb
+C:\Users\amand\Documents\POO senai\Aula3---Sprint4---POOLicçao\obj\Debug\netcoreapp3.1\Aula3---Sprint4---POOLicçao.csprojAssemblyReference.cache
+C:\Users\amand\Documents\POO senai\Aula3---Sprint4---POOLicçao\obj\Debug\netcoreapp3.1\Aula3---Sprint4---POOLicçao.csproj.CoreCompileInputs.cache
+C:\Users\amand\Documents\POO senai\Aula3---Sprint4---POOLicçao\obj\Debug\netcoreapp3.1\Aula3---Sprint4---POOLicçao.AssemblyInfoInputs.cache
+C:\Users\amand\Documents\POO senai\Aula3---Sprint4---POOLicçao\obj\Debug\netcoreapp3.1\Aula3---Sprint4---POOLicçao.AssemblyInfo.cs
+C:\Users\amand\Documents\POO senai\Aula3---Sprint4---POOLicçao\obj\Debug\netcoreapp3.1\Aula3---Sprint4---POOLicçao.dll
+C:\Users\amand\Documents\POO senai\Aula3---Sprint4---POOLicçao\obj\Debug\netcoreapp3.1\Aula3---Sprint4---POOLicçao.pdb
+C:\Users\amand\Documents\POO senai\Aula3---Sprint4---POOLicçao\obj\Debug\netcoreapp3.1\Aula3---Sprint4---POOLicçao.genruntimeconfig.cache

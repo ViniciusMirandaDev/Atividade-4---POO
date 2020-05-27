@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula3---Sprint4---POOLicçao/1.0.0": {
+        "runtime": {
+          "Aula3---Sprint4---POOLicçao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula3---Sprint4---POOLicçao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
